@@ -4,6 +4,8 @@ public class Exceptions {
     public static void main(String[] args) {
 
         /*
+        Exception, Java-da proqramın normal gedişatını pozan hadisədir
+
         Java-da proqramın icrası zamanı gözlənilməz vəziyyətlə qarşılaşması istisnadır (exception).
         Bu hallar proqramın düzgün işləməsinə mane ola bilər və proqramın səhv nəticələr
         verməsinə səbəb ola bilər. Java, istisnaların (exceptions) idarə edilməsini təmin etmək üçün
@@ -25,6 +27,16 @@ public class Exceptions {
         tərəfindən atılır. Bu, funksiyaya potensial olaraq baş verən istisnaları bildirməyə imkan verir və bu funksiyanın
         çağırıldığı yerdə istisnaları (exceptions) idarə etmək üçün addımlar atmağa imkan verir.
          */
+
+        int a = 5;
+        int b = 0;
+
+        try {
+            System.out.println(a / b);
+        }catch ( ArithmeticException e) { // Handling exception
+            e.printStackTrace(); // Show error code
+        }
+        System.out.println("Code Working");
 
     }
 }
