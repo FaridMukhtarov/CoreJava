@@ -23,7 +23,7 @@ public class Exceptions {
         Adətən, "finally" bloku resursların azad edilməsi kimi zəruri təmizləmə işləri aparır.
 
 
-        Java-da istisnalar (exceptions) da "Throw" açar sözü ilə əl ilə Yaradila biner və "throw" açar sözü ilə funksiyalar
+        Java-da istisnalar (exceptions) da "Throw" açar sözü ilə əl ilə Yaradila biliner və "throw" açar sözü ilə funksiyalar
         tərəfindən atılır. Bu, funksiyaya potensial olaraq baş verən istisnaları bildirməyə imkan verir və bu funksiyanın
         çağırıldığı yerdə istisnaları (exceptions) idarə etmək üçün addımlar atmağa imkan verir.
          */
