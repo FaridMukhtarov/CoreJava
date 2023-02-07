@@ -15,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -42,7 +43,12 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;application.passwordSafe&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArithmeticExceptionPractice">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="lesson38_Interfaces" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ChildOfInterfaceStaticVeDefaultMethods">
     <configuration name="ArithmeticExceptionPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson36_Exceptions.ArithmeticExceptionPractice" />
       <module name="JavaCore" />
@@ -56,12 +62,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CallCredit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson35_Polymorphism.CallCredit" />
+    <configuration name="ChildOfInterfaceStaticVeDefaultMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson38_Interfaces.ChildOfInterfaceStaticVeDefaultMethods" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson35_Polymorphism.*" />
+          <option name="PATTERN" value="lesson38_Interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConcreteChildClassOfInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson38_Interfaces.ConcreteChildClassOfInterface" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson38_Interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConcreteChildOf2Interfaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson38_Interfaces.ConcreteChildOf2Interfaces" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson38_Interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,39 +114,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HouseBirds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson34_Overriding.HouseBirds" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson34_Overriding.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InputMismatchException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson36_Exceptions.InputMismatchException" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson36_Exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChildOfInterfaceStaticVeDefaultMethods" />
+        <item itemvalue="Application.ConcreteChildOf2Interfaces" />
+        <item itemvalue="Application.ConcreteChildClassOfInterface" />
         <item itemvalue="Application.ArithmeticExceptionPractice" />
         <item itemvalue="Application.Exceptions" />
-        <item itemvalue="Application.InputMismatchException" />
-        <item itemvalue="Application.CallCredit" />
-        <item itemvalue="Application.HouseBirds" />
       </list>
     </recent_temporary>
   </component>
