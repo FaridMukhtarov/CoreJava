@@ -48,20 +48,7 @@
       <recent name="lesson38_Interfaces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ChildOfInterfaceStaticVeDefaultMethods">
-    <configuration name="ArithmeticExceptionPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson36_Exceptions.ArithmeticExceptionPractice" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson36_Exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ListIterator_01">
     <configuration name="ChildOfInterfaceStaticVeDefaultMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson38_Interfaces.ChildOfInterfaceStaticVeDefaultMethods" />
       <module name="JavaCore" />
@@ -75,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConcreteChildClassOfInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson38_Interfaces.ConcreteChildClassOfInterface" />
+    <configuration name="Iterator_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson39_Iterator.Iterator_01" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson38_Interfaces.*" />
+          <option name="PATTERN" value="lesson39_Iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConcreteChildOf2Interfaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson38_Interfaces.ConcreteChildOf2Interfaces" />
+    <configuration name="Iterator_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson39_Iterator.Iterator_02" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson38_Interfaces.*" />
+          <option name="PATTERN" value="lesson39_Iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +88,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson36_Exceptions.Exceptions" />
+    <configuration name="Iterator_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson39_Iterator.Iterator_03" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson36_Exceptions.*" />
+          <option name="PATTERN" value="lesson39_Iterator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListIterator_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson39_Iterator.ListIterator_01" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson39_Iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListIterator_01" />
+        <item itemvalue="Application.Iterator_03" />
+        <item itemvalue="Application.Iterator_02" />
+        <item itemvalue="Application.Iterator_01" />
         <item itemvalue="Application.ChildOfInterfaceStaticVeDefaultMethods" />
-        <item itemvalue="Application.ConcreteChildOf2Interfaces" />
-        <item itemvalue="Application.ConcreteChildClassOfInterface" />
-        <item itemvalue="Application.ArithmeticExceptionPractice" />
-        <item itemvalue="Application.Exceptions" />
       </list>
     </recent_temporary>
   </component>
