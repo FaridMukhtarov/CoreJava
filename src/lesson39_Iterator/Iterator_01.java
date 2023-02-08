@@ -7,7 +7,7 @@ public class Iterator_01 {
     public static void main(String[] args) {
 
         /*
-        Java-da iterator bir kolleksiyanın elementlərinə ardıcıl daxil olmaq üçün interfeysdir.
+        Java-da iterator bir collection-un elementlərinə ardıcıl daxil olmaq üçün interfeysdir.
         Iterator interfeysinə hasNext() və next() metodları daxildir, onların köməyi ilə
         kolleksiyanın elementləri ardıcıl olaraq naviqasiya edilə bilər.
         Bu interfeys java.util.Iterator interfeysindən götürülüb.
