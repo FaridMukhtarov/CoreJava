@@ -1,6 +1,6 @@
 package lesson04_MathematicalIncrementDecrement;
 
-public class PostAndPre_Incre_Decre {
+public class  PostAndPre_Incre_Decre {
     public static void main(String[] args) {
 
 //        int a = 20;

@@ -12,7 +12,7 @@ public class CharDataCasting {
         Scanner input = new Scanner(System.in);
         System.out.print("zehemet olmasa bir karakter daxil edin: ");
 
-        char  c = input.nextLine().charAt(0);
-        System.out.println(" "+(char)(c+1) +(char)(c+2) +(char)(c+3) );
+        char  c = input.next().charAt(0);
+        System.out.println(""+(char)(c+1) +(char)(c+2) +(char)(c+3) );
     }
 }
