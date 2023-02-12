@@ -6,10 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="fa1a30b2-e263-4d26-8846-7d30ffadcc8e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson03_DataCastingAndWrapperClass/CharDataCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson03_DataCastingAndWrapperClass/CharDataCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson04_MathematicalIncrementDecrement/DataCastingMathematical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson04_MathematicalIncrementDecrement/DataCastingMathematical.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson04_MathematicalIncrementDecrement/MathematicalQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson04_MathematicalIncrementDecrement/MathematicalQuestion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson04_MathematicalIncrementDecrement/PostAndPre_Incre_Decre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson04_MathematicalIncrementDecrement/PostAndPre_Incre_Decre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson05_ConcatenationAndOperators/LogicalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson05_ConcatenationAndOperators/LogicalOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson06_ifElseStatements/If_ElseIf_Statements_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson06_ifElseStatements/If_ElseIf_Statements_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson06_ifElseStatements/If_ElseIf_Statements_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson06_ifElseStatements/If_ElseIf_Statements_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson06_ifElseStatements/If_Statements_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson06_ifElseStatements/If_Statements_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson06_ifElseStatements/If_Statements_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson06_ifElseStatements/If_Statements_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,15 +39,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/farid/SeleniumTraining/JavaCore",
-    "settings.editor.selected.configurable": "application.passwordSafe"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/farid/SeleniumTraining/JavaCore&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;application.passwordSafe&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="lesson38_Interfaces" />

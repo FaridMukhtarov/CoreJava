@@ -2,7 +2,7 @@ package lesson06_ifElseStatements;
 
 import java.util.Scanner;
 
-public class If_ElseIf_Statements_2 {
+public class  If_ElseIf_Statements_2 {
     public static void main(String[] args) {
 
         // istifadeciden aldigi mesulun sayini ve list qiymetini al

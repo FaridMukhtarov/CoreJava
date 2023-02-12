@@ -23,9 +23,9 @@ public class If_ElseIf_Statements_1 {
         
         if (bke > 30){
             System.out.println("Obez");
-        } else if (bke > 25) {
+        }else if (bke > 25) {
             System.out.println("Kilolu");
-        } else if (bke > 20) {
+        }else if (bke > 20) {
             System.out.println("Normal");
         }else if (bke > 0){
             System.out.println("Zeyif");

@@ -6,8 +6,8 @@ public class LogicalOperators {
         // Logical (Mentiqi) Operators.  ( &&, ||, !. )
 
         // && And
-        // Or
-        // Deyil
+        // || Or
+        // != Deyil
 
 
     }

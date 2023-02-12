@@ -2,7 +2,7 @@ package lesson06_ifElseStatements;
 
 import java.util.Scanner;
 
-public class If_Statements_2 {
+public class  If_Statements_2 {
     public static void main(String[] args) {
 
         // Istifadeciden bir herif ali
