@@ -35,7 +35,7 @@ public class Manipulation_substring {
 
         System.out.println(name);
         System.out.println(name.substring(3,4));
-        System.out.println(name.substring(3,3)); // Hecne yazdirmaz
+        System.out.println(name.substring(3,3)); // Hecne yazdirmaz ""
 
 
 
