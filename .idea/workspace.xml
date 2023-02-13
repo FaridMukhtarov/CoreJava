@@ -6,11 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="fa1a30b2-e263-4d26-8846-7d30ffadcc8e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson05_ConcatenationAndOperators/LogicalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson05_ConcatenationAndOperators/LogicalOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson06_ifElseStatements/If_ElseIf_Statements_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson06_ifElseStatements/If_ElseIf_Statements_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson06_ifElseStatements/If_ElseIf_Statements_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson06_ifElseStatements/If_ElseIf_Statements_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson06_ifElseStatements/If_Statements_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson06_ifElseStatements/If_Statements_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson06_ifElseStatements/If_Statements_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson06_ifElseStatements/If_Statements_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson07_NestedIfElseStatements/Nested_IfElseStatements_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson07_NestedIfElseStatements/Nested_IfElseStatements_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson09_StringManipulations/Manipulation_charAt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson09_StringManipulations/Manipulation_charAt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +50,7 @@
       <recent name="lesson38_Interfaces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MathematicalQuestion">
+  <component name="RunManager" selected="Application.Manipulation_charAt">
     <configuration name="CharDataCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson03_DataCastingAndWrapperClass.CharDataCasting" />
       <module name="JavaCore" />
@@ -67,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListQuestion_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessson40_Collection.LinkedListQuestion_01" />
+    <configuration name="LinkedListQueueDataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessson40_Collection.LinkedListQueueDataType" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
@@ -80,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListQueueDataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessson40_Collection.LinkedListQueueDataType" />
+    <configuration name="Manipulation_charAt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson09_StringManipulations.Manipulation_charAt" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessson40_Collection.*" />
+          <option name="PATTERN" value="lesson09_StringManipulations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Manipulation_charAt" />
         <item itemvalue="Application.MathematicalQuestion" />
         <item itemvalue="Application.CharDataCasting" />
         <item itemvalue="Application.Question_6" />
         <item itemvalue="Application.LinkedListQueueDataType" />
-        <item itemvalue="Application.LinkedListQuestion_01" />
       </list>
     </recent_temporary>
   </component>

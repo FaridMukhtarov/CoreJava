@@ -32,9 +32,9 @@ public class Nested_IfElseStatements_2 {
             }
 
         } else if (yas<65) {
-            //System.out.println("pensiyaya cixa bilmezsiz");
+            //Qadin ise pensiya cixa biler Kisi ise islemesi lazimdir
             if (cinsiyet=='Q' || cinsiyet=='q'){
-                System.out.println("pensiyaya cixa bilmezsiz");
+                System.out.println("pensiyaya cixa Bilersiz");
 
             } else if (cinsiyet=='K' || cinsiyet=='k') {
                 System.out.println("Pensiyaya cixmaqiniz ucun " +(65-yas) +  " il islemelisiniz");
@@ -42,7 +42,7 @@ public class Nested_IfElseStatements_2 {
             } else {
                 System.out.println("xetali yasi deyeri!");
             }
-        }else {
+        }else { // 65 den boyukse pensiya cixa bilerseen
             System.out.println("Pensiyaya cixa bilersen!");
         }
     }
