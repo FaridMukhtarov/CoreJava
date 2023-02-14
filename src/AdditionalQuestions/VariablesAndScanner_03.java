@@ -1,4 +1,4 @@
-package AdditionalAndQuestions;
+package AdditionalQuestions;
 
 import java.util.Scanner;
 
@@ -24,9 +24,10 @@ public class VariablesAndScanner_03 {
 
         String information = "Your name : " + name
                 + "\nYour last name: " + lastName
-                + "\nYour age: " + age;
+                + "\nYour age: " + age
+                + "\nYour registration has been successfully completed.";
 
-        System.out.println(information + "\nYour registration has been successfully completed.");
+        System.out.println(information);
 
 
 
