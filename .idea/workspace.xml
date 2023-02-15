@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fa1a30b2-e263-4d26-8846-7d30ffadcc8e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdditionalAndQuestions/VariablesAndScanner_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdditionalQuestions/VariablesAndScanner_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdditionalAndQuestions/VariablesAndScanner_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdditionalQuestions/VariablesAndScanner_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdditionalAndQuestions/VariablesAndScanner_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdditionalQuestions/VariablesAndScanner_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson09_StringManipulations/Manipulation_concat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson09_StringManipulations/Manipulation_concat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdditionalQuestions/DataCasting_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdditionalQuestions/DataCasting_01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +49,9 @@
       <recent name="lesson38_Interfaces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VariablesAndScanner_06">
-    <configuration name="VariablesAndScanner_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdditionalQuestions.VariablesAndScanner_03" />
+  <component name="RunManager" selected="Application.DataCasting_05">
+    <configuration name="DataCasting_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdditionalQuestions.DataCasting_01" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariablesAndScanner_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdditionalQuestions.VariablesAndScanner_04" />
+    <configuration name="DataCasting_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdditionalQuestions.DataCasting_02" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariablesAndScanner_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdditionalQuestions.VariablesAndScanner_05" />
+    <configuration name="DataCasting_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdditionalQuestions.DataCasting_03" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariablesAndScanner_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdditionalQuestions.VariablesAndScanner_06" />
+    <configuration name="DataCasting_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdditionalQuestions.DataCasting_04" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariablesAndScanner_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdditionalQuestions.VariablesAndScanner_07" />
+    <configuration name="DataCasting_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdditionalQuestions.DataCasting_05" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VariablesAndScanner_06" />
-        <item itemvalue="Application.VariablesAndScanner_07" />
-        <item itemvalue="Application.VariablesAndScanner_05" />
-        <item itemvalue="Application.VariablesAndScanner_04" />
-        <item itemvalue="Application.VariablesAndScanner_03" />
+        <item itemvalue="Application.DataCasting_05" />
+        <item itemvalue="Application.DataCasting_04" />
+        <item itemvalue="Application.DataCasting_03" />
+        <item itemvalue="Application.DataCasting_02" />
+        <item itemvalue="Application.DataCasting_01" />
       </list>
     </recent_temporary>
   </component>
