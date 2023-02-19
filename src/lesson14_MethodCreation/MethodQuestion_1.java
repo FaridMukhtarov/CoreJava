@@ -21,13 +21,13 @@ public class MethodQuestion_1 {
     public static void ozSubstingMethod (String input, int baslangicIndx, int bitmeIndx){
         if (baslangicIndx>bitmeIndx){
             System.out.println("Baslangic index Bitme Index-den boyuk ola bilmez:");
-        } else if (bitmeIndx>input.length()) {
+        } else if (bitmeIndx>=input.length()) {
             System.out.println("Bitme index-i String-in serhedleri xaricinde");
         }else {
             for (int i = baslangicIndx; i < bitmeIndx; i++) {
                 System.out.print(input.charAt(i));
             }
-            System.out.println();
+            System.out.println("");
         }
     }
 }

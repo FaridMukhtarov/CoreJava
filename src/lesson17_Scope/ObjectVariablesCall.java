@@ -5,7 +5,7 @@ public class ObjectVariablesCall{
 
         // ClassLevelVariables Class-indan instance variable-lari call etmek
 
-        ClassLevelVariables_Static personal2 = new ClassLevelVariables_Static();
+        ClassLevelVariables personal2 = new ClassLevelVariables();
         System.out.println(personal2.personalAdi); // Yoxdur
         System.out.println(personal2.personalYas); // 0
 
@@ -18,7 +18,7 @@ public class ObjectVariablesCall{
         System.out.println(personal2.personalTel); // 75692659
 
 
-        ClassLevelVariables_Static personal1 = new ClassLevelVariables_Static();
+        ClassLevelVariables personal1 = new ClassLevelVariables();
         personal1.personalAdi = "Gulnar";
         personal1.personalYas = 26;
         personal1.personalTel = "847365";
@@ -29,7 +29,7 @@ public class ObjectVariablesCall{
         System.out.println(personal1.personalAdi +" "+ personal2.personalAdi);
 
 
-        ClassLevelVariables_Static personal3 = new ClassLevelVariables_Static();
+        ClassLevelVariables personal3 = new ClassLevelVariables();
         personal3.personalAdi = "Arzu";
         personal3.personalYas = 23;
         personal3.personalTel = "362485";

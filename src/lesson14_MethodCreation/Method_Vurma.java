@@ -20,6 +20,7 @@ public class Method_Vurma {
 
     }
     public static double vurmaMethod(double reqem1, double reqem2){
+
         return reqem1*reqem2;
     }
 }

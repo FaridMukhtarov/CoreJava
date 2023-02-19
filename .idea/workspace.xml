@@ -6,7 +6,17 @@
   <component name="ChangeListManager">
     <list default="true" id="fa1a30b2-e263-4d26-8846-7d30ffadcc8e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdditionalQuestions/DataCasting_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdditionalQuestions/DataCasting_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson14_MethodCreation/MethodQuestion_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson14_MethodCreation/MethodQuestion_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson14_MethodCreation/Method_Tekrar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson14_MethodCreation/Method_Tekrar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson14_MethodCreation/Method_Vurma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson14_MethodCreation/Method_Vurma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson17_Scope/ClassLevelVariables_Static.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson17_Scope/ClassLevelVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson17_Scope/ClassVariablesCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson17_Scope/ClassVariablesCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson17_Scope/ObjectVariablesCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson17_Scope/ObjectVariablesCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson17_Scope/ObjectVariables_Instance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson17_Scope/ObjectVariables_Instance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson17_Scope/ScopeIntroduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson17_Scope/ScopeIntroduction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson18_Arrays/ArrayElemetiArtiran.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson18_Arrays/ArrayElemetiArtiran.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson18_Arrays/Arrays_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson18_Arrays/Arrays_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson18_Arrays/IstifadeciyeArrayYaradmaq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson18_Arrays/IstifadeciyeArrayYaradmaq.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +59,13 @@
       <recent name="lesson38_Interfaces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DataCasting_05">
-    <configuration name="DataCasting_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdditionalQuestions.DataCasting_01" />
+  <component name="RunManager" selected="Application.ArrayElemetiArtiran">
+    <configuration name="ArrayElemetiArtiran" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson18_Arrays.ArrayElemetiArtiran" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdditionalQuestions.*" />
+          <option name="PATTERN" value="lesson18_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataCasting_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdditionalQuestions.DataCasting_02" />
+    <configuration name="DoWhileLoop_CheckPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson16_DoWhileLoopAnd.DoWhileLoop_CheckPassword" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdditionalQuestions.*" />
+          <option name="PATTERN" value="lesson16_DoWhileLoopAnd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataCasting_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdditionalQuestions.DataCasting_03" />
+    <configuration name="MethodQuestion_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson14_MethodCreation.MethodQuestion_1" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdditionalQuestions.*" />
+          <option name="PATTERN" value="lesson14_MethodCreation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataCasting_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdditionalQuestions.DataCasting_04" />
+    <configuration name="Method_String_TersCevirme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson14_MethodCreation.Method_String_TersCevirme" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdditionalQuestions.*" />
+          <option name="PATTERN" value="lesson14_MethodCreation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataCasting_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdditionalQuestions.DataCasting_05" />
+    <configuration name="WhileLoop_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson15_OverloadingAndWhileLoop.WhileLoop_5" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdditionalQuestions.*" />
+          <option name="PATTERN" value="lesson15_OverloadingAndWhileLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DataCasting_05" />
-        <item itemvalue="Application.DataCasting_04" />
-        <item itemvalue="Application.DataCasting_03" />
-        <item itemvalue="Application.DataCasting_02" />
-        <item itemvalue="Application.DataCasting_01" />
+        <item itemvalue="Application.ArrayElemetiArtiran" />
+        <item itemvalue="Application.DoWhileLoop_CheckPassword" />
+        <item itemvalue="Application.WhileLoop_5" />
+        <item itemvalue="Application.MethodQuestion_1" />
+        <item itemvalue="Application.Method_String_TersCevirme" />
       </list>
     </recent_temporary>
   </component>

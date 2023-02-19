@@ -3,7 +3,7 @@ package lesson18_Arrays;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class IstifadeciyeArrayYaradmaq {
+public class  IstifadeciyeArrayYaradmaq {
     public static void main(String[] args) {
 
         // istifadeciden array’in boyutunu ve elementlerini alip array’i yaradan ve bize

@@ -1,6 +1,6 @@
 package lesson14_MethodCreation;
 
-public class Method_Tekrar {
+public class  Method_Tekrar {
     public static void main(String[] args) {
 
         // Methodlarin Tekrari

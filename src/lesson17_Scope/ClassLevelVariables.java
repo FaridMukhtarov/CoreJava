@@ -1,6 +1,6 @@
 package lesson17_Scope;
 
-public class ClassLevelVariables_Static {
+public class ClassLevelVariables {
 
 
     // Static Variables

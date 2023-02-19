@@ -1,6 +1,6 @@
 package lesson17_Scope;
 
-public class ObjectVariables_Instance {
+public class  ObjectVariables_Instance {
 
     // Static Variables
     static String xestexanaName = "Ulduz Xestexana";

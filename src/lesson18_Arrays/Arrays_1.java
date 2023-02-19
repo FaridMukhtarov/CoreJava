@@ -3,6 +3,8 @@ package lesson18_Arrays;
 public class Arrays_1 {
     public static void main(String[] args) {
 
+        String[] herfler = new String[100];
+
         int[] arr1 = {2,4,6,8,10};
 
         System.out.println(arr1[2]); // 6

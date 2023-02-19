@@ -2,7 +2,9 @@ package lesson17_Scope;
 
 public class ScopeIntroduction {
 
-    /*\
+    /*
+    Scope bir variable-in daxil ola biləcəyi sahədir
+
     Java-da Variables-lar yalnız yaradıldıqları bölgə
     daxilində əlçatandır. Buna Scope deyilir.
      */
@@ -11,18 +13,18 @@ public class ScopeIntroduction {
     // 1- Class Level Variable-lar
     // 2- Local Variable-lar
 
-    // Eger variable-lara deyer verilmese java terefinden bu deyerleri alir
+    // Class level Variable-lar 2 yere bolunur
+    //    1- Static Variables (Diger adi Class Variables)
+    //    2- Instance Variables (Object Variables)
+
+    // Eger Static variable-lara deyer verilmeyib yazdirilarsa java terefinden bu deyerleri alir
     // String: null
     // Reqemsal Primitivler: 0
-    // Char: ""
+    // Char: ''
     // Boolean: false
 
 
     /*
-    Class level Variable-lar 2 yere bolunur
-    1- Static Variables (Diger adi Class Level Variables)
-    2- Instance Variables (Object Variables)
-
     // Class level variables method-larin colunda yaradilir yani Class-in icinde
     // umumi istifadesi en uste olur
 

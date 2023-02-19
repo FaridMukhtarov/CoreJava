@@ -6,8 +6,8 @@ public class ClassVariablesCall {
         // ObjectVariables class-indan xestexana adini cagirmaq
 
         // Static olan variables cagirmaq ucun
-        System.out.println(ObjectVariables_Instance.xestexanaName); // Ulduz Xestexana
-        System.out.println(ObjectVariables_Instance.xesteSayi); // 2586
+        System.out.println(ClassLevelVariables.xestexanaName); // Ulduz Xestexana
+        System.out.println(ClassLevelVariables.xesteSayi); // 2586
         method1();
 
         ObjectVariables_Instance.xesteSayi++;

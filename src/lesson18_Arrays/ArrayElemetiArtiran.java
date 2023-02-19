@@ -18,7 +18,7 @@ public class ArrayElemetiArtiran {
     }
     public static int[] arrayArtirma (int[] arrInt) {
         for (int i = 0; i < arrInt.length; i++) {
-            arrInt[i] = arrInt[i] + 2;
+            arrInt[i] += 2;
         }
         return arrInt;
     }
