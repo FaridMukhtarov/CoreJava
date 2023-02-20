@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 public class ArrayEnBoyukVeEnKicikElement {
     public static void main(String[] args) {
+
         // verilen bir int arry-de en kicik ve
         // en boyuk sayilari yazdiran bir method yaradin
 

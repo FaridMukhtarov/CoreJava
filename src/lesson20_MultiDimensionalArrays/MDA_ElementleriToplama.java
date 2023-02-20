@@ -19,9 +19,9 @@ public class MDA_ElementleriToplama {
         int [][] arr1 = {{2,5,6}, {9,5,2,1}, {5,6,}};
         toplama = 0;
 
-        for (int i = 0; i < arr1.length; i++) {
+        for (int i = 0; i < arr1.length; i++) { // outur
 
-            for (int j = 0; j < arr1[i].length; j++) {
+            for (int j = 0; j < arr1[i].length; j++) { // inner
                 toplama += arr1[i][j];
             }
         }
