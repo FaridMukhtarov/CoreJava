@@ -4,7 +4,7 @@ public class MathematicalQuestion {
     public static void main(String[] args) {
 
         // Reqemler  Toplamasi
-        int input = 1753;
+        int input = 1426;
         int birler = 0;
         int reqemlerToplamasi = 0;
 

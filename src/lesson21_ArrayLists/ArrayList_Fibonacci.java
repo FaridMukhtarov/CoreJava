@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class ArrayList_Fibonacci {
+public class     ArrayList_Fibonacci {
     public static void main(String[] args) {
         // istifadeciden bir pozitif tam reqem alin
         // o tamreqemde kick Fibonacci reqemlerini bir list

@@ -1,4 +1,4 @@
-package lessson40_Collection;
+package lesson40_Collection;
 
 public class LinkedListQuestion_02 {
     public static void main(String[] args) {

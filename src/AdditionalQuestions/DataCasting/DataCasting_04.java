@@ -1,4 +1,4 @@
-package AdditionalQuestions;
+package AdditionalQuestions.DataCasting;
 
 import java.util.Scanner;
 

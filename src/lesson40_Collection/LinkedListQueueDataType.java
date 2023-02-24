@@ -1,4 +1,4 @@
-package lessson40_Collection;
+package lesson40_Collection;
 
 import java.util.LinkedList;
 import java.util.Queue;

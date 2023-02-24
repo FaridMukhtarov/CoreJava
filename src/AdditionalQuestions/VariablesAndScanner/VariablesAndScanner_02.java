@@ -1,4 +1,4 @@
-package AdditionalQuestions;
+package AdditionalQuestions.VariablesAndScanner;
 
 import java.util.Scanner;
 
